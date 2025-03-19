@@ -9,7 +9,7 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
     {/* <App /> */}
     <h1 class="text-3xl font-bold underline">
-    Hello world!
+    Hello hrishi!
   </h1>
   </StrictMode>,
 )
